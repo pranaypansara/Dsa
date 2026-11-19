@@ -23,7 +23,7 @@ Dsa/
 ├── Linked-List/              (10)
 ├── Stack/                    (2)
 ├── Recursion/                (2)
-├── Backtracking/             (3)
+├── Backtracking/             (5)
 ├── Greedy/                   (4)
 ├── Dynamic-Programming/      (4)
 ├── Bit-Manipulation/         (2)
@@ -44,16 +44,16 @@ The numbers in parentheses indicate the number of LeetCode solutions in each fol
 
 Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 
-78 solved problems are included using the latest accepted Java submission for each problem. Each file contains the original accepted logic and a header with the problem metadata. No editorial or third-party solutions are included.
+80 solved problems are included using the latest accepted Java submission for each problem. Each file contains the original accepted logic and a header with the problem metadata. No editorial or third-party solutions are included.
 
 ### Progress
 
 | Difficulty | Problems |
 | --- | ---: |
 | Easy | 30 |
-| Medium | 47 |
+| Medium | 49 |
 | Hard | 1 |
-| **Total** | **78** |
+| **Total** | **80** |
 
 ### Problems by topic
 
@@ -68,7 +68,7 @@ Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 | [Linked-List](Linked-List/) | 10 |
 | [Stack](Stack/) | 2 |
 | [Recursion](Recursion/) | 2 |
-| [Backtracking](Backtracking/) | 3 |
+| [Backtracking](Backtracking/) | 5 |
 | [Greedy](Greedy/) | 4 |
 | [Dynamic-Programming](Dynamic-Programming/) | 4 |
 | [Bit-Manipulation](Bit-Manipulation/) | 2 |
@@ -105,8 +105,10 @@ Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 | 73 | [Set Matrix Zeroes](Arrays/0073_Set_Matrix_Zeroes.java) | Medium | Arrays |
 | 74 | [Search a 2D Matrix](Binary-Search/0074_Search_a_2D_Matrix.java) | Medium | Binary-Search |
 | 75 | [Sort Colors](Sorting/0075_Sort_Colors.java) | Medium | Sorting |
+| 78 | [Subsets](Backtracking/0078_Subsets.java) | Medium | Backtracking |
 | 81 | [Search in Rotated Sorted Array II](Binary-Search/0081_Search_in_Rotated_Sorted_Array_II.java) | Medium | Binary-Search |
 | 88 | [Merge Sorted Array](Two-Pointers/0088_Merge_Sorted_Array.java) | Easy | Two-Pointers |
+| 90 | [Subsets II](Backtracking/0090_Subsets_II.java) | Medium | Backtracking |
 | 118 | [Pascal's Triangle](Dynamic-Programming/0118_Pascal_s_Triangle.java) | Easy | Dynamic-Programming |
 | 121 | [Best Time to Buy and Sell Stock](Dynamic-Programming/0121_Best_Time_to_Buy_and_Sell_Stock.java) | Easy | Dynamic-Programming |
 | 136 | [Single Number](Bit-Manipulation/0136_Single_Number.java) | Easy | Bit-Manipulation |
