@@ -23,7 +23,7 @@ Dsa/
 ├── Linked-List/              (10)
 ├── Stack/                    (2)
 ├── Recursion/                (2)
-├── Backtracking/             (1)
+├── Backtracking/             (3)
 ├── Greedy/                   (4)
 ├── Dynamic-Programming/      (4)
 ├── Bit-Manipulation/         (2)
@@ -44,16 +44,16 @@ The numbers in parentheses indicate the number of LeetCode solutions in each fol
 
 Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 
-76 solved problems are included using the latest accepted Java submission for each problem. Each file contains the original accepted logic and a header with the problem metadata. No editorial or third-party solutions are included.
+78 solved problems are included using the latest accepted Java submission for each problem. Each file contains the original accepted logic and a header with the problem metadata. No editorial or third-party solutions are included.
 
 ### Progress
 
 | Difficulty | Problems |
 | --- | ---: |
 | Easy | 30 |
-| Medium | 45 |
+| Medium | 47 |
 | Hard | 1 |
-| **Total** | **76** |
+| **Total** | **78** |
 
 ### Problems by topic
 
@@ -68,7 +68,7 @@ Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 | [Linked-List](Linked-List/) | 10 |
 | [Stack](Stack/) | 2 |
 | [Recursion](Recursion/) | 2 |
-| [Backtracking](Backtracking/) | 1 |
+| [Backtracking](Backtracking/) | 3 |
 | [Greedy](Greedy/) | 4 |
 | [Dynamic-Programming](Dynamic-Programming/) | 4 |
 | [Bit-Manipulation](Bit-Manipulation/) | 2 |
@@ -93,6 +93,8 @@ Profile: [Pranay Pansara](https://leetcode.com/u/hFwvrWR2IB/)
 | 33 | [Search in Rotated Sorted Array](Binary-Search/0033_Search_in_Rotated_Sorted_Array.java) | Medium | Binary-Search |
 | 34 | [Find First and Last Position of Element in Sorted Array](Binary-Search/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java) | Medium | Binary-Search |
 | 35 | [Search Insert Position](Binary-Search/0035_Search_Insert_Position.java) | Easy | Binary-Search |
+| 39 | [Combination Sum](Backtracking/0039_Combination_Sum.java) | Medium | Backtracking |
+| 40 | [Combination Sum II](Backtracking/0040_Combination_Sum_II.java) | Medium | Backtracking |
 | 48 | [Rotate Image](Arrays/0048_Rotate_Image.java) | Medium | Arrays |
 | 50 | [Pow(x, n)](Recursion/0050_Pow_x_n.java) | Medium | Recursion |
 | 53 | [Maximum Subarray](Dynamic-Programming/0053_Maximum_Subarray.java) | Medium | Dynamic-Programming |
